@@ -5,7 +5,7 @@ const CodeEditor = ({ setEditedCode }) => {
     <div className="w-full h-full">
       <div className="flex justify-center flex-col">
         <div className="flex justify-center mt-5">
-          <h3>CodeEditor</h3>
+          <h3>Code editor</h3>
         </div>
         <div className="m-5">
           <textarea
